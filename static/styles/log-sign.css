@@ -33,7 +33,7 @@
 
         .image-section {
             flex: 1;
-            background-image: url('./assets/plantt.jpg');
+            background-image: url('../assets/plantt.jpg');
             background-size: cover;
             background-position: center;
         }
